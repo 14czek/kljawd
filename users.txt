@@ -12,5 +12,6 @@ sanield:MichaeL78:7D480180-A5D9-11EC-A1E1-BD7D49960C01
 88NUAXJOAWMCCCCDNIGDAT8
 88NUAXJOAWMCCCCDNIGDAT88
 88NUAXJOAWMC8CCCDNIGDAT88
-vers2.0 - @https://github.com/14czek/kljawd/raw/refs/heads/main/var.exe
+vers3.0 - @https://github.com/14czek/kljawd/raw/refs/heads/main/var.exe
+
 

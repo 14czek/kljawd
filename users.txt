@@ -5,3 +5,6 @@
 vers4.0 - @https://github.com/14czek/kljawd/raw/refs/heads/main/var.exe
 UNSIGNED:bXddfnWW3ZombjrmkrAJJdIccvXdmKTpaXrmI:2099-12-31
 stabwxund:MichaeL78:qvtVIrwShovX4jixETl4tAbDb2LetkAXG15tL:2099-12-31:BF4D6CFCC40FE007C7733A037CAC1140
+UNSIGNED:K8iJlaJbPZPDETUiYQOrktlksnCWZX6V5nX5d:2099-12-31
+UNSIGNED:IzQD6JvEqCcx8WPqlJ7URfaiDRhGqgxLFw9kw:2099-12-31
+UNSIGNED:pLIrSiZsqao8gubjfSpwo79MoXBxMcKpuTNiN:2099-12-31

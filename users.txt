@@ -13,7 +13,7 @@ sanield:MichaeL78:7D480180-A5D9-11EC-A1E1-BD7D49960C01
 88NUAXJOAWMCCCCDNIGDAT88
 88NUAXJOAWMC8CCCDNIGDAT88
 vers4.0 - @https://github.com/14czek/kljawd/raw/refs/heads/main/var.exe
-
+UNSIGNED:testest:2026-12-12
 
 
 
@@ -23,6 +23,7 @@ vers4.0 - @https://github.com/14czek/kljawd/raw/refs/heads/main/var.exe
 
 
 hahaha:owner:testkey123:2026-12-31:6343180E951896D5B40983DBB3A8D670
+
 
 
 

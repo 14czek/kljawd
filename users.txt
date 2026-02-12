@@ -22,4 +22,5 @@ vers4.0 - @https://github.com/14czek/kljawd/raw/refs/heads/main/var.exe
 
 
 
-hahaha:owner:testkey123:2026-12-31:6343180E951896D5B40983DBB3A8D670
+hahaha:owner:testkey123:2026-12-31:6343180E951896D5B40983DBB3A8D679
+
